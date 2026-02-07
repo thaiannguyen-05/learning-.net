@@ -1,0 +1,14 @@
+/home/andev/dev/projects/Learning-first/Learning-first/bin/Debug/net8.0/Learning-first
+/home/andev/dev/projects/Learning-first/Learning-first/bin/Debug/net8.0/Learning-first.deps.json
+/home/andev/dev/projects/Learning-first/Learning-first/bin/Debug/net8.0/Learning-first.runtimeconfig.json
+/home/andev/dev/projects/Learning-first/Learning-first/bin/Debug/net8.0/Learning-first.dll
+/home/andev/dev/projects/Learning-first/Learning-first/bin/Debug/net8.0/Learning-first.pdb
+/home/andev/dev/projects/Learning-first/Learning-first/obj/Debug/net8.0/Learning-first.GeneratedMSBuildEditorConfig.editorconfig
+/home/andev/dev/projects/Learning-first/Learning-first/obj/Debug/net8.0/Learning-first.AssemblyInfoInputs.cache
+/home/andev/dev/projects/Learning-first/Learning-first/obj/Debug/net8.0/Learning-first.AssemblyInfo.cs
+/home/andev/dev/projects/Learning-first/Learning-first/obj/Debug/net8.0/Learning-first.csproj.CoreCompileInputs.cache
+/home/andev/dev/projects/Learning-first/Learning-first/obj/Debug/net8.0/Learning-first.dll
+/home/andev/dev/projects/Learning-first/Learning-first/obj/Debug/net8.0/refint/Learning-first.dll
+/home/andev/dev/projects/Learning-first/Learning-first/obj/Debug/net8.0/Learning-first.pdb
+/home/andev/dev/projects/Learning-first/Learning-first/obj/Debug/net8.0/Learning-first.genruntimeconfig.cache
+/home/andev/dev/projects/Learning-first/Learning-first/obj/Debug/net8.0/ref/Learning-first.dll
