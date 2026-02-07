@@ -12,3 +12,4 @@
 /home/andev/dev/projects/Learning-first/Learning-first/obj/Debug/net8.0/Learning-first.pdb
 /home/andev/dev/projects/Learning-first/Learning-first/obj/Debug/net8.0/Learning-first.genruntimeconfig.cache
 /home/andev/dev/projects/Learning-first/Learning-first/obj/Debug/net8.0/ref/Learning-first.dll
+/home/andev/dev/projects/Learning-first/Learning-first/obj/Debug/net8.0/Learning-first.sourcelink.json
